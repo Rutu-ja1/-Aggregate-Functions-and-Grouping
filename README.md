@@ -1,4 +1,4 @@
-Here’s a **GitHub README description** you can add based on the merged SQL script that now includes **SELECT queries + Aggregate Functions & Grouping**:
+ **SELECT queries + Aggregate Functions & Grouping**:
 
 ---
 
